@@ -1,0 +1,16 @@
+.autoCenter {
+  margin-top: 15%;
+}
+
+.autoCenterMobile {
+  margin-top: 30%
+}
+
+.backgroundColor {
+  background-color: rgba(210,210,210,0.95) !important;
+}
+
+.spotifyGreen {
+  background-color: rgb(30, 215, 96) !important;
+  border-color: rgb(30, 215, 96) !important;
+}
